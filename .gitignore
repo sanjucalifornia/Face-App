@@ -1,0 +1,6 @@
+node_modules
+models
+package.json
+script.js
+test_images
+face-api.min.js
